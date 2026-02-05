@@ -35,4 +35,4 @@ Some advanced Python topics are also covered and explained using easy, beginner-
 These scripts are intended for learning and practice, making both basic and advanced OOP concepts easy to grasp.
 
 ## How to Run
-python <filename>.py
+python filename.py

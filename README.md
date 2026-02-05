@@ -1,10 +1,10 @@
-## Introduction to Object Oriented Programming in Python (OOPS)
+# Introduction to Object Oriented Programming in Python (OOPS)
 
-# Python OOP & Decorators Examples
+## Python OOP & Decorators Examples
 
 This repository contains simple and practical Python examples demonstrating Object-Oriented Programming (OOP) concepts and Decorators.
 
-# Topics Covered
+## Topics Covered
 
 Decorators (basic, arguments, return values, execution time)
 
@@ -26,13 +26,13 @@ Properties, class methods, static methods
 
 Dataclasses, mixins, and metaclasses
 
-# Highlights
+## Highlights
 
 Some advanced Python topics are also covered and explained using easy, beginner-friendly examples for better understanding.
 
-# Purpose
+## Purpose
 
 These scripts are intended for learning and practice, making both basic and advanced OOP concepts easy to grasp.
 
-# How to Run
+## How to Run
 python <filename>.py
